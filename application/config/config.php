@@ -25,7 +25,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://wordpress-322506-988355.cloudwaysapps.com/';
+$config['base_url'] = 'http://phpstack-322506-989478.cloudwaysapps.com/';
 
 /*
 |--------------------------------------------------------------------------
